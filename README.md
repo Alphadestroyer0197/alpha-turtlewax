@@ -2,6 +2,8 @@
 
 **Alpha Turtle Wax** is a lightweight and configurable car detailing script for QBCore that allows players to "wax" their vehicle, keeping it clean for a set amount of time using immersive animations, progress bars, and optional debug tracking.
 
+-- Credit to mzmesmerized for the idea!
+
 ## 🚀 Features
 - Prevents vehicles getting dirty for a configurable duration (default: 30 minutes)
 - Uses Ox Lib progress circles or bars (fully compatible)
