@@ -1,0 +1,1 @@
+    turtlewax                     = { name = 'turtlewax', label = 'Turtle Wax', weight = 100, type = 'item', image = 'turtlewax.png', unique = false, useable = true, shouldClose = true, description = 'Turtle Wax - Shine and Protect your Vehicles Paint' },
